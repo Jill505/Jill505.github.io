@@ -2,16 +2,28 @@
 <rss version="2.0">
     <channel>
         <title>原子城據點</title>
-        <subtitle>等有一天人們不再與彼此交流，那麼那便是世界的終點</subtitle>
+        <subtitle>若有天人們不再交流，那便是世界的終點</subtitle>
         <icon>https://jill505.github.io/assets/favicon.ico</icon>
         <link>https://jill505.github.io</link>
         <author>
-          <name>安卡拉 Ankhra.Magellan</name>
+          <name>安卡拉 Ankhra Magellan</name>
         </author>
-        <description>A gamer, an artist, a developer.</description>
+        <description>A developer, an artist, a gamer.</description>
         <language>zh-TW</language>
         <pubDate>Sat, 04 Oct 2025 15:16:18 +0800</pubDate>
         <lastBuildDate>Sat, 04 Oct 2025 15:16:18 +0800</lastBuildDate>
+        <category term="Ankhra" />
+        <category term=" Ankhra Magellan" />
+        <category term=" 原子城" />
+        <category term=" Atomized City" />
+        <category term=" 安卡拉" />
+        <category term=" 安卡拉·麥哲倫" />
+        <category term=" 遊戲開發" />
+        <category term=" 詩歌" />
+        <category term=" 文章" />
+        <category term=" Game Development" />
+        <category term=" Poetry" />
+        <category term=" Article" />
         <item>
             <guid isPermalink="true">https://jill505.github.io/2025/10/04/fu/</guid>
             <title>【日常】【漫畫】服務費</title>
